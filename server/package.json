@@ -1,0 +1,13 @@
+{
+  "name": "fengye-share",
+  "version": "1.0.0",
+  "private": true,
+  "description": "风页阅读器共享书架服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
